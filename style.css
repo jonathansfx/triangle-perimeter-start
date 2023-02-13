@@ -8,3 +8,11 @@ body {
 .inputs {
   width: 50px;
 }
+
+.btn {
+  color: white;
+  background-color: rgb(68, 65, 65);
+  border-radius: 5px;
+  padding: 5px 15px;
+  cursor: pointer;
+}
